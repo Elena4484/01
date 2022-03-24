@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/wuyonghua/Documents/FreeRDP-master-3/libfreerdp/core/gateway/ntlm.c \
+  /Users/wuyonghua/Documents/FreeRDP-master-3/config.h \
+  /Users/wuyonghua/Documents/FreeRDP-master-3/winpr/include/winpr/crt.h \
